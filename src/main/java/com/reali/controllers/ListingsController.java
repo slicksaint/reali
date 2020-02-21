@@ -3,8 +3,6 @@ package com.reali.controllers;
 import com.reali.entities.House;
 import com.reali.response.Feature;
 import com.reali.response.FeatureCollection;
-import com.reali.response.Geometry;
-import com.reali.response.HousePropertiesMap;
 import com.reali.services.HouseService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
