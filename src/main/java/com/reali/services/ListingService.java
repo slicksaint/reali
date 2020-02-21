@@ -1,6 +1,5 @@
 package com.reali.services;
 
-import com.reali.controllers.RestController;
 import com.reali.entities.House;
 import com.reali.repositories.HouseRepository;
 import org.slf4j.Logger;
